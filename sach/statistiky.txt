@@ -1,0 +1,4 @@
+pocet hier: 28
+vyhry biely: 15
+vyhry biely: 9
+remizi: 4

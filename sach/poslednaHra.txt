@@ -1,0 +1,4 @@
+Biely P [e, 2] => [e, 4]
+Čierny P [e, 7] => [e, 5]
+Biely P [f, 2] => [f, 4]
+Čierny P [e, 5] => [f, 4]
